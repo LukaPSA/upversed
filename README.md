@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @LukaPSA
-- 👀 I’m interested in learning Python and C++
-- 🌱 I’m currently learning basics of programming
-- 📫 You don't reach to me
